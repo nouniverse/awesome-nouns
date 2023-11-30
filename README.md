@@ -25,6 +25,7 @@ Nouns are 32x32 pixel characters based on people, places, and things. One noun i
 - [Nouns Agora](https://www.nounsagora.com) - Agora is the home of nouns voters.
 
 ## Development
+- [Nouns Id](https://nouns.id) - A Nouns API that returns detailed information on every Noun.
 
 
 ## Miscellaneous
