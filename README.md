@@ -1,7 +1,7 @@
 # Awesome Nouns [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
-[<img src="assets/nouns-logo.svg" align="right" width="260" alt="Nouns DAO">](https://nouns.wtf)
+[<img src="assets/nouns-logo.svg" align="right" width="80" alt="Nouns DAO">](https://nouns.wtf)
 
 <!--lint ignore double-link-->
 > A curated list of awesome [Nouns](https://nouns.wtf) non-fungible token project resources. 
