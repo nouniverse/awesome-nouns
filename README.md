@@ -24,14 +24,13 @@ Nouns are 32x32 pixel characters based on people, places, and things. One noun i
 - [Nouns Camp](https://nouns.camp) - An alternative Nouns governance client.
 - [Nouns Agora](https://www.nounsagora.com) - Agora is the home of nouns voters.
 
-
 ## Development
 
 
 ## Miscellaneous
-
 - [Nouns Center](https://nouns.center/) - Nouns Center serves as the knowledge center & resource hub for Nouns DAO.
 - [Nouns Warpcast](https://warpcast.com/~/channel/nouns) - A channel to discuss Nouns and other nounish subjects.
+- [Nouns Terminal](https://nouns.sh) - Advanced interface for Nouns Auction.
 
 ## Contributing
 
