@@ -31,6 +31,7 @@ Nouns are 32x32 pixel characters based on people, places, and things. One noun i
 ## Miscellaneous
 
 - [Nouns Center](https://nouns.center/) - Nouns Center serves as the knowledge center & resource hub for Nouns DAO.
+- [Nouns Warpcast](https://warpcast.com/~/channel/nouns) - A channel to discuss Nouns and other nounish subjects.
 
 ## Contributing
 
