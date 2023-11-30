@@ -23,6 +23,7 @@ Nouns are 32x32 pixel characters based on people, places, and things. One noun i
 ## Governance
 - [Nouns Camp](https://nouns.camp) - An alternative Nouns governance client.
 - [Nouns Agora](https://www.nounsagora.com) - Agora is the home of nouns voters.
+- [Nouns Karma](https://www.nounskarma.xyz) - A contributor reputation tool for Nouns DAO.
 
 ## Development
 - [Nouns Id](https://nouns.id) - A Nouns API that returns detailed information on every Noun.
