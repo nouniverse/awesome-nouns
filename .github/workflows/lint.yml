@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3.0.2
-    - uses: actions/setup-ruby@v1
+    - uses: ruby/setup-ruby@v1.161.0
       with:
         ruby-version: 2.6.x
     - name: Install awesome_bot
