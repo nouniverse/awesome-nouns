@@ -1,7 +1,7 @@
 # Awesome Nouns [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
-[<img src="assets/nouns-logo.svg" align="right" width="260" alt="Nouns DAO">](https://nouns.wtf)
+[<img src="assets/nouns-logo.svg" align="right" width="80" alt="Nouns DAO">](https://nouns.wtf)
 
 <!--lint ignore double-link-->
 > A curated list of awesome [Nouns](https://nouns.wtf) non-fungible token project resources. 
@@ -21,15 +21,16 @@ Nouns are 32x32 pixel characters based on people, places, and things. One noun i
 
 
 ## Governance
-
+- [Nouns Camp](https://nouns.camp) - An alternative Nouns governance client.
+- [Nouns Agora](https://www.nounsagora.com) - Agora is the home of nouns voters.
 
 ## Development
 
 
 ## Miscellaneous
-
-- [Nouns3D Pet Mania](https://apps.apple.com/pt/app/nouns3d-pet-mania/id1623108120?l=en) - Pick your favourite Noun! Raise, feed, exercise and play with your Nouns.
-- [Nouns Center](https://nouns.center/) - Nouns Center serves as the knowledge center & resource hub for Nouns DAO
+- [Nouns Center](https://nouns.center/) - Nouns Center serves as the knowledge center & resource hub for Nouns DAO.
+- [Nouns Warpcast](https://warpcast.com/~/channel/nouns) - A channel to discuss Nouns and other nounish subjects.
+- [Nouns Terminal](https://nouns.sh) - Advanced interface for Nouns Auction.
 
 ## Contributing
 
