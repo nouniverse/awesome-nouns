@@ -29,7 +29,7 @@ Nouns are 32x32 pixel characters based on people, places, and things. One noun i
 ## Miscellaneous
 
 - [Nouns3D Pet Mania](https://apps.apple.com/pt/app/nouns3d-pet-mania/id1623108120?l=en) - Pick your favourite Noun! Raise, feed, exercise and play with your Nouns.
-- [Nouns Center](https://nouns.center/) - Nouns Center serves as the knowledge center & resource hub for Nouns DAO
+- [Nouns Center](https://nouns.center/) - Nouns Center serves as the knowledge center & resource hub for Nouns DAO.
 
 ## Contributing
 
